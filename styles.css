@@ -5,7 +5,10 @@
   background-color: black;
   color:blue;
 }
-
+.day{
+	backdrop-color:white;
+	color:black;
+}
 #swap{
   outline:0;
 }
